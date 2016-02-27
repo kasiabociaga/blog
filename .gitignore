@@ -2,4 +2,4 @@
 __pycache
 myvenv
 db.sqlite3
-.DS-Store
+.DS_Store
